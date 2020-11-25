@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Mariyam Hanan As-ad</title>
+</head>
+<body>
+
+<h1>Myself</h1>
+<p>I am Mariyam Hanan As-ad and I was born and raised in Maldives. Currently, I am pursuing a degree in Creative Multimedia (specialising in graphic design) Taylor’s Design School. A fun fact about me is that I love the local food here in Malaysia.</p>
+<hr />
+
+<h1>Experience in Interactive Design Class</h1>
+<p>I have enjoyed the class a lot more than I thought I would. I like that the module not only focuses on design, but I also have the opportunity to use the little knowledge I have of copywriting and advertising as well. Apart from that, I am surprised that I was able to keep up in the coding class as I never thought I would ever find myself coding.</p>
+<hr />
+
+<h1>Expectations in this class</h1>
+<p>By the end of this module, I hope to gain a better understanding of:</p>
+<ul>
+<li>basic coding</li>
+<li>functional design</li>
+<li>human behaviour</li>
+<br/>
+
+<hr/>
+
+<a href="https://zoom.us/j/96166212751?pwd=TVlVRTJRbmcxVlJKU05kaUFXN1p5UT09" target="_blank">Link to Interactive Design Facebook Group</a>
+
+</body>
+</html>
